@@ -41,7 +41,8 @@ The objective of this project is to perform data analysis and visualization to g
 To replicate the analysis, follow these steps:
 
 1. Clone the repository:
-
+   
+```shell
 git clone https://github.com/Ahmad1993Aj/Medical_Cost_Personal_small_EDV.git
 
 Have Fun!!
